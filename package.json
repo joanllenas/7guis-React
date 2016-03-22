@@ -1,6 +1,6 @@
 {
   "name": "7guis-CRUD-React-Redux-mocha",
-  "description": "7guis CRUD exercise made with ReactJS UI library, Redux and Mocha tests",
+  "description": "7guis CRUD exercise made with ReactJS, Redux and Mocha tests",
   "version": "1.0.0",
   "main": "./src/index.js",
   "engines": {
