@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "es6"
+  },
+  "exclude": [
+    ".idea",
+    "dist",
+    "node_modules",
+    "test"
+  ]
+}
