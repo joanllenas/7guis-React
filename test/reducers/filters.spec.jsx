@@ -7,7 +7,7 @@ import {
 } from '../../src/reducers/filters';
 
 describe('filterText reducer', () => {
-  it('should return the initial state', () => {
+  it('should return an empty string for the initial state', () => {
     expect(filterText(undefined, {})).toEqual('');
   });
   it('should handle APPLY_FILTER', () => {
