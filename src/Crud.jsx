@@ -11,7 +11,7 @@ import UserList from './UserList';
 import UserForm from './UserForm';
 
 
-class Crud extends React.Component {
+export class Crud extends React.Component {
 
   constructor(props) {
     super(props);
@@ -131,6 +131,5 @@ Crud.propTypes = {
   filterText: PropTypes.string.isRequired,
   users: PropTypes.array.isRequired,
 };
-
 
 export default connect(state => state)(Crud);

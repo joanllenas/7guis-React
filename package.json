@@ -10,7 +10,8 @@
     "build": "node ./node_modules/.bin/webpack",
     "serve": "node ./node_modules/.bin/webpack-dev-server",
     "test": "mocha --compilers js:babel-core/register --require ./test/test_helper.js 'test/**/*.spec.@(js|jsx)'",
-    "test:watch": "npm run test -- --watch --watch-extensions jsx"
+    "test:watch": "npm run test -- --watch --watch-extensions jsx",
+    "env": "env"
   },
   "babel": {
     "presets": [
