@@ -19,9 +19,9 @@ _( ReactJS, Redux, ES6+, Mocha, expect, webpack )_
 > [![](https://raw.githubusercontent.com/wiki/eugenkiss/7guis/images/timer.png)](Timer)
 
 ### 5. CRUD
-> ![](https://raw.githubusercontent.com/wiki/eugenkiss/7guis/images/crud.png)
 - [CRUD](CRUD)
 - [CRUD + Redux](CRUD-Redux)
+> ![](https://raw.githubusercontent.com/wiki/eugenkiss/7guis/images/crud.png)
 
 ### 6. Circle Drawer
 > [![](https://raw.githubusercontent.com/wiki/eugenkiss/7guis/images/circledraw.png)](CircleDrawer)
